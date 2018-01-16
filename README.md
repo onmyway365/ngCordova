@@ -1,12 +1,12 @@
 # NgCordova: Angular 4 + Cordova boilerplate
 
-This project is using Angular 4 + Cordova boilerplate configurated to work together so you can start building your great Hybrid Cordova Mobile Apps in Angular 4.
+This project is using Angular 5 + Cordova boilerplate configurated to work together so you can start building your great Hybrid Cordova Mobile Apps in Angular 5.
 
 ## Installation
 
 * Install Node.js from: https://nodejs.org/en/download/
 * Install Cordova using: `npm install -g cordova`
-* Clone ngCordova repository: `git clone https://github.com/NavCore/ngCordova.git`
+* Clone ngCordova repository: `git clone https://github.com/onmyway365/ngCordova`
 * Go to ngCordova repository: `cd ngCordova`
 * Install dependencies: `npm install`
 
