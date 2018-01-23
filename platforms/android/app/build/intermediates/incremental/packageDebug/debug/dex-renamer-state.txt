@@ -1,4 +1,4 @@
-#Tue Jan 16 10:43:59 CAT 2018
+#Tue Jan 23 13:31:08 CAT 2018
 base.0=C\:\\Apps\\CordovaApps\\BoilerplateApp2\\ngCordova\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 renamed.0=classes.dex
 file.0=C\:\\Apps\\CordovaApps\\BoilerplateApp2\\ngCordova\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

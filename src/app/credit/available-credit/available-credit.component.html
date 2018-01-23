@@ -1,0 +1,10 @@
+<div class="flex-container">
+  <div [ngClass]="['flex-item']">
+    <span class="floatLeft">Available Credits: </span>
+    <span class="floatRight">{{creditsData.credits}}</span>
+  </div>
+  <div [ngClass]="['button-buy', 'flex-button-item']" [routerLink]="['/buy-credit']">
+    <span>Buy</span>
+    <span class="floatRight"><i class="glyphicon glyphicon-plus"></i></span>
+  </div>
+</div>

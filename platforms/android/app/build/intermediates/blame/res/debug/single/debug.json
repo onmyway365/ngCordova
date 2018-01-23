@@ -36,6 +36,10 @@
         "source": "C:\\Apps\\CordovaApps\\BoilerplateApp2\\ngCordova\\platforms\\android\\app\\src\\main\\res\\drawable-port-xxhdpi\\screen.png"
     },
     {
+        "merged": "C:\\Apps\\CordovaApps\\BoilerplateApp2\\ngCordova\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
+        "source": "C:\\Apps\\CordovaApps\\BoilerplateApp2\\ngCordova\\platforms\\android\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
         "merged": "C:\\Apps\\CordovaApps\\BoilerplateApp2\\ngCordova\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-mdpi_screen.png.flat",
         "source": "C:\\Apps\\CordovaApps\\BoilerplateApp2\\ngCordova\\platforms\\android\\app\\src\\main\\res\\drawable-port-mdpi\\screen.png"
     },

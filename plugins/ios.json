@@ -7,6 +7,15 @@
     "files": {}
   },
   "installed_plugins": {
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.test.ngcordova"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.test.ngcordova"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.test.ngcordova"
+    },
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.test.ngcordova"
     }

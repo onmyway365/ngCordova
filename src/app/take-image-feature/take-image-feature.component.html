@@ -1,0 +1,16 @@
+<h1>Image</h1>
+
+<img [src]="DomSanitizer.bypassSecurityTrustUrl(selfieImage)" />
+
+<div class="flex-container" (click)="callCamera()">
+  <div [ngClass]="['button-image', 'flex-button-item']">
+    <span class="">Take Image</span>
+    <span class="floatRight"><i class="glyphicon glyphicon-camera"></i></span>
+  </div>
+</div>
+
+<button class="btn btn-primary" (click)="takeRegistrationSelfie()">
+  Take a selfie
+</button>    
+
+<app-home-button></app-home-button>

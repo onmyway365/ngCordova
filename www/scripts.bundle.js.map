@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/app/test.js"],"names":[],"mappings":"AAAA;AACA;AACA;AACA,GAAG;AACH;AACA;AACA;AACA,E","file":"scripts.bundle.js","sourcesContent":["test = {\r\n  alert: function () {\r\n    alert('Alert!');\r\n  },\r\n  newAlert: function () {\r\n    alert('New Alert!');\r\n  }\r\n};\n\n\n// WEBPACK FOOTER //\n// src/app/test.js"],"sourceRoot":"webpack:///"}
